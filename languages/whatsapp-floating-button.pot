@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: whatsapp-floating-button 1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Cr. Edgardo Raúl Galletto\n"
+"Language-Team: WebModerna\n"
+"Language: es_AR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin-page
+msgid "Botón de WhatsApp"
+msgstr "WhatsApp Button"
+
+#: admin-page
+msgid "Configuración del Botón Flotante de WhatsApp"
+msgstr "WhatsApp Floating Button Settings"
+
+#: admin-page
+msgid "Número de WhatsApp (con código de país)"
+msgstr "WhatsApp number (with country code)"
+
+#: admin-page
+msgid "Posición vertical"
+msgstr "Vertical Position"
+
+#: admin-page
+msgid "Abajo"
+msgstr "Bottom"
+
+#: admin-page
+msgid "Arriba"
+msgstr "Top"
+
+#: admin-page
+msgid "Posición horizontal"
+msgstr "Horizontal Position"
+
+#: admin-page
+msgid "Derecha"
+msgstr "Right"
+
+#: admin-page
+msgid "Izquierda"
+msgstr "Left"
+
+#: admin-page
+msgid "Distancia vertical (px)"
+msgstr "Vertical Distance (px)"
+
+#: admin-page
+msgid "Distancia horizontal (px)"
+msgstr "Horizontal Distance (px)"
+
+#: admin-page
+msgid "Guardar configuración"
+msgstr "Save Settings"
+
+#: front-end
+msgid "Chatear por WhatsApp"
+msgstr "Chat on WhatsApp"
