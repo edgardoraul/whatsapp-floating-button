@@ -102,7 +102,6 @@ add_action('wp_footer', function() {
     <style>
         .wfb-button {
             position: fixed;
-            /* background-color: #25D366; */
             background-color: rgba(37, 211, 102, 0.5);
             color: white;
             font-size: 40px;
